@@ -1,16 +1,33 @@
-### Hi there 👋
+<img src="https://i.imgur.com/89aPOW0.png">
 
-<!--
-**FlightRipper/FlightRipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div id="header" align="center"> Hey im Ahmad (aka Ripper), a 20 year old Fullstack Developer and Designer. </div>
 
-Here are some ideas to get you started:
+### Fields of Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>
+    <b>🧑‍💻 Web Development</b> - (ECommerce, Portfolios, SaaS, etc.)
+  </li>
+  <li>
+    <b>🎮 Game Script Development</b> - (FiveM, RedM, etc.)
+  </li>
+</ul>
+
+
+### Customers
+<ul>
+  <li>
+    <b>🧑‍💻 Web Development:</b> <b>150+</b> projects fulfilled
+  </li>
+  <li>
+    <b>🎮 Game Script Development:</b> <b>2000+</b> sales | <b>250+</b> commissions fulfilled
+  </li>
+</ul>
+
+### Links
+* Discord Server: [discord.gg/flightdev](https://discord.gg/flightdev)
+* Fivem Store: [fivem.flightdev.co](https://fivem.flightdev.co)
+
+### Contact Me
+* Discord: [lebnayne](https://discordapp.com/users/776443665823825950)
+* Email: [ahmad@flightdev.co](mailto:ahmad@flightdev.co) 
