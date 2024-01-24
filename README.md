@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/89aPOW0.png">
 
-## <div id="header" align="center"> Hey im Ahmad (aka Ripper), a 20 year old Fullstack Developer and Designer. </div>
+## <div id="header" align="center"> Hey im Ahmad (aka Ripper), a 20 year old Fullstack Developer. </div>
 
 ### Fields of Work
 
