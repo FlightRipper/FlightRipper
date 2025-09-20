@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/89aPOW0.png">
+<img src="https://r2.fivemanage.com/IE45uit2nzkXywQ05Lbtl/BANNER-FarmScriptsV5-byFlightDesign.png">
 
 ## <div id="header" align="center"> Hey I'm Ahmad (aka Ripper), a 21 year old Fullstack Developer. </div>
 
@@ -23,9 +23,8 @@
     <b>🎮 Game Script Development:</b> <b>2000+</b> sales | <b>250+</b> commissions fulfilled
   </li>
 </ul>
-
 ### Links
-* Discord Server: [discord.gg/flightdev](https://discord.gg/flightdev)
+* Discord Server: [discord.gg/nKPvwZTfcq](https://discord.gg/nKPvwZTfcq)
 * Fivem Store: [fivem.flightdev.co](https://fivem.flightdev.co)
 
 ### Contact Me
