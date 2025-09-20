@@ -1,4 +1,4 @@
-<img src="https://r2.fivemanage.com/IE45uit2nzkXywQ05Lbtl/BANNER-FarmScriptsV5-byFlightDesign.png">
+<img src="https://imgur.com/gy36ocp">
 
 ## <div id="header" align="center"> Hey I'm Ahmad (aka Ripper), a 21 year old Fullstack Developer. </div>
 
