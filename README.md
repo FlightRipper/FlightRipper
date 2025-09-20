@@ -24,8 +24,8 @@
   </li>
 </ul>
 ### Links
-* Discord Server: [discord.gg/nKPvwZTfcq](https://discord.gg/nKPvwZTfcq)
-* Fivem Store: [fivem.flightdev.co](https://fivem.flightdev.co)
+* Discord Server: [Discord](https://discord.gg/nKPvwZTfcq)
+* Fivem Store: [Store](https://farm-scripts.tebex.io/)
 
 ### Contact Me
 * Discord: [lebnayne](https://discordapp.com/users/776443665823825950)
