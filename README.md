@@ -30,4 +30,4 @@
 
 ### Contact Me
 * Discord: [lebnayne](https://discordapp.com/users/776443665823825950)
-* Email: [ahmad@flightdev.co](mailto:ahmad@flightdev.co) 
+* Email: [ahmad@flightdev.co](mailto:ahmadmalah86@gmail.com) 
