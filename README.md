@@ -1,6 +1,6 @@
-<img src="https://imgur.com/gy36ocp">
+<img width="1000" height="1000" alt="Logo Farm Scripts" src="https://github.com/user-attachments/assets/e3f02f6b-2c54-452d-af19-550781bfbcda" />
 
-## <div id="header" align="center"> Hey I'm Ahmad (aka Ripper), a 21 year old Fullstack Developer. </div>
+## <div id="header" align="center"> Hey I'm Ahmad (aka Ripper), a 23 years old Fullstack Developer. </div>
 
 ### Fields of Work
 
